@@ -1,5 +1,10 @@
-# 💫 About Me:
-I’m currently working on<br>C++ programs focused on object-oriented programming, logic building, and academic software engineering projects.<br><br>I’m looking to collaborate on<br>Beginner to intermediate C++ projects, problem-solving tasks, and academic assignments.<br><br>I’m looking for help with<br>Optimizing C++ code, advanced OOP concepts, and data structures.<br><br>I’m currently learning<br>Data structures in C++, DBMS concepts, and core computer science fundamentals.<br><br>I am currently learning Python for AI, focusing on building a strong foundation in logic, data handling, and basic machine learning concepts. I aim to combine Python with AI tools to solve real-world problems step by step..
+# 💫 About Me:I’m currently working on C++ programs focused on object-oriented programming, logic building, and academic software engineering projects, while also exploring front-end development with HTML, CSS, JavaScript, and React.
+
+I’m looking to collaborate on beginner to intermediate C++ projects, problem-solving tasks, academic assignments, and front-end web applications, including interactive websites and UI/UX improvements.
+
+I’m seeking guidance in optimizing C++ code, advanced OOP concepts, data structures, and front-end best practices such as responsive design, React state management, and performance optimization.
+
+I’m currently learning data structures in C++, DBMS concepts, core computer science fundamentals, and modern front-end frameworks. Additionally, I am building my Python skills for AI, focusing on logic, data handling, and basic machine learning concepts, aiming to combine Python and AI with front-end development to create practical, real-world solutions step by step.
 
 
 ## 🌐 Socials:
