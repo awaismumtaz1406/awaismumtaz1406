@@ -1,5 +1,5 @@
-# 💫 About Me:I’m currently working on C++ programs focused on object-oriented programming, logic building, and academic software engineering projects, while also exploring front-end development with HTML, CSS, JavaScript, and React.
-
+About me,
+I’m currently working on C++ programs focused on object-oriented programming, logic building, and academic software engineering projects, while also exploring front-end development with HTML, CSS, and JavaScript.
 I’m looking to collaborate on beginner to intermediate C++ projects, problem-solving tasks, academic assignments, and front-end web applications, including interactive websites and UI/UX improvements.
 
 I’m seeking guidance in optimizing C++ code, advanced OOP concepts, data structures, and front-end best practices such as responsive design, React state management, and performance optimization.
