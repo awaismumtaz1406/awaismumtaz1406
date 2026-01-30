@@ -1,10 +1,4 @@
-About me,
-I’m currently working on C++ programs focused on object-oriented programming, logic building, and academic software engineering projects, while also exploring front-end development with HTML, CSS, and JavaScript.
-I’m looking to collaborate on beginner to intermediate C++ projects, problem-solving tasks, academic assignments, and front-end web applications, including interactive websites and UI/UX improvements.
-
-I’m seeking guidance in optimizing C++ code, advanced OOP concepts, data structures, and front-end best practices such as responsive design, React state management, and performance optimization.
-
-I’m currently learning data structures in C++, DBMS concepts, core computer science fundamentals, and modern front-end frameworks. Additionally, I am building my Python skills for AI, focusing on logic, data handling, and basic machine learning concepts, aiming to combine Python and AI with front-end development to create practical, real-world solutions step by step.
+I am a BS Software Engineering focused on C++ (OOP,DSA) , python and front-end development with HTML, CSS, and JavaScript. I specialize in logic building, academic software projects, and creating interactive, responsive web applications. Currently, I am mastering Data Structures, DBMS, and modern frameworks like React to optimize performance. I am also expanding my Python skills for AI, aiming to integrate machine learning with web interfaces. I am eager to collaborate on C++ problem-solving and projects that bridge AI logic with high-quality UI/UX.
 
 
 ## 🌐 Socials:
