@@ -1,4 +1,4 @@
-I am a BS Software Engineering focused on C++ (OOP,DSA) , python and front-end development with HTML, CSS, and JavaScript. I specialize in logic building, academic software projects, and creating interactive, responsive web applications. Currently, I am mastering Data Structures, DBMS, and modern frameworks like React to optimize performance. I am also expanding my Python skills for AI, aiming to integrate machine learning with web interfaces. I am eager to collaborate on C++ problem-solving and projects that bridge AI logic with high-quality UI/UX.
+I am a BS Software Engineering focused on C++ (OOP,DSA) , python and front-end development with HTML, CSS, and JavaScript. I specialize in logic building, academic software projects, and creating interactive, responsive web applications. Currently, I am mastering Data Structures, DBMS, and modern frameworks like React to optimize performance. I am also expanding my Python skills for AI, aiming to integrate machine learning with web interfaces. I am eager to collaborate on C++ problem-solving and projects that bridge AI logic with high-quality UI/jwq.
 
 
 ## 🌐 Socials:
