@@ -9,11 +9,13 @@
 
 ### 💫 About Me
 
-I am a Software Engineering student focused on building robust logic, mastering **Data Structures & Algorithms (C++)**, and crafting responsive applications. Currently diving deeper into database management, modern frontend frameworks, and Python for machine learning integration.
+I am a Software Engineering student skilled in Python, C++, JavaScript, and SQL, with hands-on experience in front-end development, manual testing, and database systems. Experienced in building ML prediction pipelines, developing full-stack desktop tools, and solving 100+ LeetCode problems.
 
-* 🔭 Actively developing full-stack software and algorithmic projects
-* 📚 Deepening expertise in **C++ (OOP/DSA)**, **DBMS**, and **Python**
-* ⚡ Seeking collaborations on impactful open-source tools and software systems
+🔭 Actively developing full-stack applications, machine learning pipelines, and algorithmic solutions
+
+📚 Deepening expertise in C++, Python (ML/Tkinter), SQL (MySQL/MongoDB), and Software Quality Assurance
+
+⚡ Seeking a Software Engineer Internship to contribute to impactful software systems and applications
 
 ---
 
