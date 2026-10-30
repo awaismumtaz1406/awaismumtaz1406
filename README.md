@@ -21,7 +21,7 @@ I am a Software Engineering student skilled in Python, C++, JavaScript, and SQL,
 
 ### 🌐 Connect With Me
 
-         <p align="left">
+  <p align="left">
   <a href="https://linkedin.com/in/awais-mumtaz-181a602a8" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
